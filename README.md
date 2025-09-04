@@ -1,4 +1,4 @@
-# 🖥️ Aniqa Khan’s Personal Portfolio Website
+# 🖥️ Fawad Alam Personal Portfolio Website
 
 A modern and fully responsive portfolio website built with **HTML**, **CSS** and **JavaScript**. This site highlights my skills, projects and contact information with smooth navigation and an elegant user interface.
 
@@ -33,9 +33,9 @@ portfolio/
 
 ## 📸 UI Preview
 
-![Portfolio Preview](Protfolio.png)
+![Portfolio Preview](fawadport.png)
 
 ## 💡 Author
 
-Made with ❤️ by Aniqa Khan  
+Made with ❤️ by Fawad Alam
 
