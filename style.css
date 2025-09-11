@@ -5,10 +5,10 @@
     --primery-color: black;
     --secondary-color: #FFFFFF;
     --second-background: #181818;
-    --accent-color: green;
-    --second-accent-color: green;
+    --accent-color: rgb(85, 85, 201);
+    --second-accent-color: rgb(85, 85, 201);
 
-    --shadow-color: green;
+    --shadow-color: rgb(85, 85, 201);
     --shadow: 1px 4px 20px var(--shadow-color);
 }
 
